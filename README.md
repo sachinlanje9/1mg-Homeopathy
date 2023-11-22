@@ -5,6 +5,9 @@ It is an online healthcare platform and a trusted name in the healthcare industr
 Scraped and Analysed data to identify the most effective and popular homeopathic medicines.
 
 Choose the best products based on customer preferences.
+
 Reduce costs and maximize profits.
+
 Ensure customer satisfaction with a curated selection of quality offerings.
+
 Gain a competitive advantage and achieve sustainable growth
